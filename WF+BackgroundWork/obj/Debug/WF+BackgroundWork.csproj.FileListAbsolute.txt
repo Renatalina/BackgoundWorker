@@ -1,0 +1,10 @@
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\bin\Debug\WF+BackgroundWork.exe.config
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\bin\Debug\WF+BackgroundWork.exe
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\bin\Debug\WF+BackgroundWork.pdb
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\obj\Debug\WF+BackgroundWork.csprojResolveAssemblyReference.cache
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\obj\Debug\WF_BackgroundWork.Form1.resources
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\obj\Debug\WF_BackgroundWork.Properties.Resources.resources
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\obj\Debug\WF+BackgroundWork.csproj.GenerateResource.cache
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\obj\Debug\WF+BackgroundWork.csproj.CoreCompileInputs.cache
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\obj\Debug\WF+BackgroundWork.exe
+c:\users\висковатых.наталия\source\repos\WF+BackgroundWork\WF+BackgroundWork\obj\Debug\WF+BackgroundWork.pdb
